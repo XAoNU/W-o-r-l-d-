@@ -1,4 +1,4 @@
-class Arrive {
+class Law {
 public:
     void run() { }
 };
